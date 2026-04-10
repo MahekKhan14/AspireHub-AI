@@ -1,4 +1,4 @@
-# 🚀 AspireHub AI
+# 🚀 AspireHub-AI
 
 **An AI-powered platform that bridges the gap between your current skills and your ideal career through personalized insights, intelligent recommendations, and mentorship.**
 
