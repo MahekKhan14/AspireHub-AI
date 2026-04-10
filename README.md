@@ -76,5 +76,3 @@ The goal is to empower users with intelligent, personalized guidance so they can
 ## 👩‍💻 Author
 
 **Mahek Khan**
-
---
